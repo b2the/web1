@@ -1,0 +1,6 @@
+﻿<li><a href="http://localhost/index.php?id=1">공지사항</a></li>
+<li><a href="http://localhost/index.php?id=2">소개글</a></li>
+<li><a href="http://localhost/index.php?id=3">판매처</a></li>
+<li><a href="http://localhost/index.php?id=4">블로그</a></li>
+<li><a href="http://localhost/index.php?id=5">Odds 배당정보</a></li>
+<li><a href="http://localhost/index.php?id=6">Sports Site</a></li>
