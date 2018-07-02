@@ -1,0 +1,20 @@
+header{
+  border-style:none;
+  border-radius: 10px;
+  background-color: #DCDCDC;
+  border: 1px solid #DCDCDC;
+  background-clip: content-box;
+}
+nav{
+  border-right:1px solid none;
+  width:200px;
+  height:300px;
+  float:left;
+}
+nav ol{
+  list-style:none;
+}
+article{
+  float:left;
+  padding:20px;
+}
